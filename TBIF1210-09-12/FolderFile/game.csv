@@ -1,0 +1,14 @@
+id_game;nama_game;kategori;tahun_rilis;harga;stok_game
+G001;PacMan;Arcade;1934;575;9
+G002;Red;Adventure;2030;125;44
+G003;Tekken;Classic;2056;200;4
+G004;Avatar;Adventure;2090;205;15
+G005;Harvest Moon;Adventure;2005;175;26
+G006;Toram;Adventure;2017;325;13
+G007;Madagascar;Arcade;2010;150;20
+G008;Barbie;Classic;2000;80;15
+G009;Cooking Mama;Classic;2018;75;20
+G010;Cars;Arcade;2020;100;15
+G011;Feeding Frenzy;Arcade;2006;50;15
+G012;Bus Simulation;Simulation;2020;60;10
+G013;Ghost;Horror;2015;70;1
