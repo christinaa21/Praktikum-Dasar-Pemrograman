@@ -1,4 +1,4 @@
-# Praktikum-Dasar-Pemrograman
+# Praktikum-Dasar-Pemrograman + Tubes
 Repository ini berisi kumpulan file python dan haskell untuk Praktikum Dasar Pemrograman ITB Tahun 2022 (Tahun Ajaran 2021/2022)
 
 Hi there, naks STEI pejuang TPB! <br/>
