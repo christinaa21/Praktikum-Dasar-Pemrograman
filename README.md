@@ -8,4 +8,4 @@ Sebenernya aku udah lupa urutan praktikumnya gimana, jadii.. maaf banget nih fil
 Mungkin ada juga beberapa file yang bukan file praktikum, tapi mungkin file latihan atau file-file untuk aku latihan mandiri gitu...
 
 Oh ya, aku juga buat drive akademik yang isinya semua dokumen-dokumen saksi bisu dari perjalananku di ITB ini yang bakal terus di-update seiring bertambahnya semesterku wkwkwk <br/>
-Ini link ke drivenya yaa: (Link menyusul...)
+Ini link ke drivenya yaa: https://bit.ly/DriveAkademikChristina
